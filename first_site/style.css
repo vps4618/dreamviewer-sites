@@ -1,0 +1,14 @@
+.banner img {
+  width: 100%;
+}
+.banner {
+  width: 100%;
+  height: fit-content;
+}
+.links{
+	width:100%;
+	display: flex;	
+}
+.menu{
+	width: 100%;
+}

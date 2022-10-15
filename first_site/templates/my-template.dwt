@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="banner"><!-- TemplateBeginRepeat name="banner" --><img src="../home-banner.png" width="1024" height="98" alt=""/><!-- TemplateEndRepeat --></div>
+<div class="menu"><!-- TemplateBeginRepeat name="menu" -->
+  <div class="links">
+    <div class="link">Home</div>
+	  <div class="link">Gallery</div>
+	  <div class="link">Details</div>
+	  <div class="link">Contact us</div>
+	  <div class="link">About us</div>
+  </div>
+<!-- TemplateEndRepeat --></div>
+<div class="body"><!-- TemplateBeginEditable name="body" --><!-- TemplateEndEditable --></div>
+<div class="footer"><!-- TemplateBeginRepeat name="footer" --><!-- TemplateEndRepeat --></div>
+</body>
+</html>
